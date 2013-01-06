@@ -1,0 +1,2 @@
+- Added the ability for tbody row lines
+- edits in grid-styler.js, index.html

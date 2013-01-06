@@ -1,0 +1,2 @@
+- Created the ability to set number of columns and rows for the html output.  Set to a min/max of 1/50 columns and 1/1500 rows.
+- edits in grid-styler.js, index.html, grid-styler.css
